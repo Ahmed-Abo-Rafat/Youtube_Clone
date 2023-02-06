@@ -3,7 +3,7 @@ Youtube Clone is a video-sharing for watching and sharing videos and it is v3 fr
 
 <br>
 <br>
-<a href="https://ecomerce-headphones.vercel.app/">
+<a href="https://youtubeclone1123.netlify.app/">
   <img
   src="./assets/banner.PNG"
   alt="banner"
@@ -15,7 +15,7 @@ Youtube Clone is a video-sharing for watching and sharing videos and it is v3 fr
 <br>
 
 ## Live Site:  
-   - Link: https://gym-exercs.netlify.app/
+   - Link: https://youtubeclone1123.netlify.app/
 
 ## Features
   - Advanced React Best Practices such as
